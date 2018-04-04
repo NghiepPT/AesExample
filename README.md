@@ -8,3 +8,5 @@ https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
 ## When is helpful to use AES encryption?
 When you want to encrypt a confidential text into a decryptable format, for example when you need to send sensitive data in e-mail.
 The decryption of the encrypted text it is possible only if you know the right password.
+
+
