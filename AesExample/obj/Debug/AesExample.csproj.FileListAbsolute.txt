@@ -1,0 +1,6 @@
+E:\Source\My Project\Microsoft Net\AesExample\AesExample\bin\Debug\AesExample.exe.config
+E:\Source\My Project\Microsoft Net\AesExample\AesExample\bin\Debug\AesExample.exe
+E:\Source\My Project\Microsoft Net\AesExample\AesExample\bin\Debug\AesExample.pdb
+E:\Source\My Project\Microsoft Net\AesExample\AesExample\obj\Debug\AesExample.csprojResolveAssemblyReference.cache
+E:\Source\My Project\Microsoft Net\AesExample\AesExample\obj\Debug\AesExample.exe
+E:\Source\My Project\Microsoft Net\AesExample\AesExample\obj\Debug\AesExample.pdb
